@@ -1,4 +1,4 @@
-## Po-Yu Lai's User Page
+## Po Yu Lai's User Page
 
 **My cute cat**\
 <img src="screenshots/PXL(compressed)_20210121_120725538.jpg" alt="drawing" width="200"/>
@@ -13,7 +13,9 @@ git commit
 ```
  [*Here is my github*](https://github.com/Astraeven0502)
 
-[click on this link](#a-first-level-heading)
+[click on this link](#po-yu-lais-user-page)
+
+[Go readme](README.md)
 
 - First one
 - Second one 
